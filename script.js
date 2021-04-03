@@ -1,6 +1,6 @@
-var API_KEY 
+var API_KEY = config.API_KEY
 
-// config.API_KEY
+
 
 var button = document.getElementById("submitButton");
 
