@@ -1,4 +1,4 @@
-var API_KEY = config.API_KEY
+var API_KEY = config_API_KEY
 
 
 
