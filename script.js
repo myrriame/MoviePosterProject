@@ -1,4 +1,4 @@
-var API_KEY = '157f3a2b'
+var API_KEY = config.API_KEY
 
 
 
